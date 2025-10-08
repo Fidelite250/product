@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+#btn {
+    
+    color: red;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#btn:hover {
+    background: black;
+}
